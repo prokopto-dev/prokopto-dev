@@ -1,4 +1,4 @@
-## Hi There, I'm Courtney Caldwell<img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="50">
+## Hi There, I'm Courtney Caldwell<img src="https://media.giphy.com/media/Opa6OcDh8Pt4c/giphy.gif" width="30">
 
 Software Engineer @ <a href="https://hyannisportresearch.com/">Hyannis Port Research</a><img src="https://media.giphy.com/media/EqIJGfyNyhTZpEPlxx/giphy.gif" width="30">
 
