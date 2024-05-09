@@ -2,7 +2,11 @@
 
 ## About Me
 
-- I'm currently working as a Software Engineer @ <a href="https://hyannisportresearch.com/">Hyannis Port Research</a><img src="https://media.giphy.com/media/EqIJGfyNyhTZpEPlxx/giphy.gif" width="30">
+- 🔭 I'm currently working as a Software Engineer @ <a href="https://hyannisportresearch.com/">Hyannis Port Research</a><img src="https://media.giphy.com/media/EqIJGfyNyhTZpEPlxx/giphy.gif" width="30">
+- 🌱 I'm currently learning functional programming
+- 👯 I'm looking to collaborate on scientific research and computer science research
+- 😄 Pronouns are: he/him
+- ⚡ Fun fact: Gregorian chant and early music are my top genres.
 
 
 
