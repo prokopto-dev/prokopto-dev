@@ -4,3 +4,8 @@ Software Engineer @ <a href="https://hyannisportresearch.com/">Hyannis Port Rese
 
 [![Linkedin: courtney-ccc](https://img.shields.io/badge/-courtney--ccc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/courtney-ccc/)](https://www.linkedin.com/in/courtney-ccc/)
 [![GitHub prokopto-dev](https://img.shields.io/github/followers/prokopto-dev?label=follow&style=social)](https://github.com/prokopto-dev)
+
+
+```python3
+x = "something"
+```
