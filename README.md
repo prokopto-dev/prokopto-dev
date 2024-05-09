@@ -11,4 +11,4 @@
 ## Contact Me
 
 Through Discord @ <img src="https://img.shields.io/badge/-postmalonialism-purple?logo=discord"><br>
-Through LinkedIn @ [![Linkedin: courtney-ccc](https://img.shields.io/badge/-courtney--ccc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/courtney-ccc/)](https://www.linkedin.com/in/courtney-ccc/)
+Through LinkedIn @ [![Linkedin: courtney-ccc](https://img.shields.io/badge/-courtney--ccc-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/courtney-ccc/)](https://www.linkedin.com/in/courtney-ccc/)
