@@ -7,5 +7,9 @@ Software Engineer @ <a href="https://hyannisportresearch.com/">Hyannis Port Rese
 
 
 ```python3
-x = "something"
+def AboutMe:
+  languages: List[str] = [
+    "Python",
+    "C",
+  ]
 ```
