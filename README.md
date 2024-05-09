@@ -1,3 +1,3 @@
-## Hi There, I'm Courtney <img src="https://giphy.com/embed/970Sr8vpwEbXG" width="30">
+## Hi There, I'm Courtney <img src="https://media.giphy.com/media/970Sr8vpwEbXG/giphy.gif" width="30">
 
 
