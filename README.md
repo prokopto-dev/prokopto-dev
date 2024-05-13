@@ -8,7 +8,11 @@
 - 😄 Pronouns are: he/him
 - ⚡ Fun fact: Gregorian chant and early music are my top genres.
 
+## 📈 GitHub Stats
+
+![Your github stats](https://github-readme-stats.vercel.app/api?username=prokopto-dev&show_icons=true)
+
 ## Contact Me
 
-Through Discord @ <img src="https://img.shields.io/badge/-postmalonialism-purple?logo=discord"><br>
-Through LinkedIn @ [![Linkedin: courtney-ccc](https://img.shields.io/badge/-courtney--ccc-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/courtney-ccc/)](https://www.linkedin.com/in/courtney-ccc/)
+Discord @ <img src="https://img.shields.io/badge/-postmalonialism-purple?logo=discord"><br>
+LinkedIn @ [![Linkedin: courtney-ccc](https://img.shields.io/badge/-courtney--ccc-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/courtney-ccc/)](https://www.linkedin.com/in/courtney-ccc/)
