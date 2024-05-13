@@ -7,7 +7,7 @@
 - 👯 I'm looking to collaborate on scientific research and computer science research
 - 😄 Pronouns are: he/him
 - ⚡ Fun fact: Gregorian chant and early music are my top genres.
-- 
+
 ## Contact Me
 
 Through Discord @ <img src="https://img.shields.io/badge/-postmalonialism-purple?logo=discord"><br>
