@@ -7,6 +7,7 @@
 - 👯 I'm looking to collaborate on scientific research and computer science research
 - 💬 Ask me about minimalist coding
 - 😄 Pronouns are: he/him
+- :page_with_curl: Favourite License: MIT (see basically all my repos/projects)
 - ⚡ Fun fact: Gregorian chant and early music are my top genres, and I prefer to share times in `Z` (or `UTC`).
 
 ## 🛠 Technologies
