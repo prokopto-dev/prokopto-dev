@@ -21,5 +21,5 @@
 ## Contact Me
 
 Discord @ <img src="https://img.shields.io/badge/-postmalonialism-purple?logo=discord"><br>
-LinkedIn @ [![Linkedin: courtney-ccc](https://img.shields.io/badge/-courtney--ccc-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/courtney-ccc/)](https://www.linkedin.com/in/courtney-ccc/)
+LinkedIn @ [![Linkedin: courtney-ccc](https://img.shields.io/badge/-courtney--ccc-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/courtney-ccc/)](https://www.linkedin.com/in/courtney-ccc/)<br>
 Mastadon @ ![Mastodon Follow](https://img.shields.io/mastodon/follow/112479543725321487)
