@@ -8,11 +8,12 @@
 - 💬 Ask me about minimalist coding
 - 😄 Pronouns are: he/him
 - :page_with_curl: Favourite License: MIT (see basically all my repos/projects)
+- :game_die: Games: Dungeons and Dragons, DMG/GB/GBC/GBA development/games, [Everquest P1999](https://www.project1999.com/)
 - ⚡ Fun fact: Gregorian chant and early music are my top genres, and I prefer to share times in `Z` (or `UTC`).
 
 ## 🛠 Technologies
 
-- Languages: Primarily `C`, `C++`, `Python`, but really anything else I can get my hands on; I'm not a snob.
+- Languages: Primarily `C`, `C++`, `Python`, and `ASM`, but really anything else I can get my hands on; I'm not a snob.
 - Tools: Docker, Kubernetes, GDB
 
 ## 📈 GitHub Stats
