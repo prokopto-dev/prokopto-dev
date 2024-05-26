@@ -12,7 +12,7 @@
 
 ## 🛠 Technologies
 
-- Languages: `C`, `C++`, `Python`
+- Languages: Primarily `C`, `C++`, `Python`, but really anything else I can get my hands on; I'm not a snob.
 - Tools: Docker, Kubernetes, GDB
 
 ## 📈 GitHub Stats
