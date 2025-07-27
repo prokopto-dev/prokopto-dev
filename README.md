@@ -3,7 +3,7 @@
 ## About Me
 
 - 🔭 I'm currently working as a Software Engineer @ <a href="https://www.arrowstreetcapital.com/">Arrowstreet Capital</a><img src="https://media.giphy.com/media/EqIJGfyNyhTZpEPlxx/giphy.gif" width="30">
-- :books: I'm currently studying part-time as a student at  the <a href="https://extension.harvard.edu/">Havard Extesnsion School</a><img src="https://extension.harvard.edu/wp-content/uploads/sites/8/2021/03/cropped-harvard-extension-site-icon-32x32.png" width="32">
+- :books: I'm currently studying part-time as a student at  the <a href="https://extension.harvard.edu/">Havard Extension School</a><img src="https://extension.harvard.edu/wp-content/uploads/sites/8/2021/03/cropped-harvard-extension-site-icon-32x32.png" width="32">
 - 🌱 I'm currently learning functional programming
 - 👯 I'm looking to collaborate on scientific research and computer science research
 - 💬 Ask me about AI and it's relationship to society and philosophy
